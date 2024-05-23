@@ -189,7 +189,7 @@ img {
   display: none;
 }
 
-.faq .faq-group .faq-group-body .open {
+.faq .faq-group .faq-group-body.open {
   display: block;
 }
 
